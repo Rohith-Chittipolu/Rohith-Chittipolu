@@ -3,7 +3,6 @@
 <!--
 **Rohith-Chittipolu/Rohith-Chittipolu**
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java,Html,css,Javascript.
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: chrohith2808@gmail.com
