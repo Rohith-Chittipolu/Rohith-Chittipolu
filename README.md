@@ -9,4 +9,3 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love to travel and explore new places.
 I aim to become a full stack devoloper in a reputed product based it firm after my masters.
--->
